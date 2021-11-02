@@ -55,7 +55,7 @@ namespace _01_11_2021
             //Console.Write("Text: ");
             //string text4 = Console.ReadLine();
 
-            //foreach (var strings in method.stringArray(text, " "))
+            //foreach (var strings in method.stringArray(text4, " "))
             //{
             //    Console.WriteLine($"{strings} ");
             //}
