@@ -87,7 +87,13 @@ namespace _01_11_2021
         #region Assignment-4 Method
         public string[] stringArray(string text, string seperator)
         {
-            return text.Split(seperator);
+            Console.Write("Text: ");
+            string text4 = Console.ReadLine();
+
+            foreach (var strings in method.stringArray(text4, " "))
+            {
+                Console.Write($"{strings} ");
+            }
         }
         #endregion
 
