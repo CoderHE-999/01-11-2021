@@ -99,7 +99,7 @@ namespace _01_11_2021
         #region Assignment-5 Method
         public string[] LastStringArray()
         {
-            string[] texts = { "p201 proqramlasdirma oyrenir", "elnur is coni" };
+            string[] texts = { "p201 proqramlasdirma oyrenir", "menim adim Elnurdur" };
             string[] lastStringArr = new string[0];
 
             foreach (var item in texts)
